@@ -1,6 +1,8 @@
 //Matthew Wulz
 //EightQueen.java
 
+//This is the classic 8 queens problem, solved in a few different moethods depending on the flag. 
+
 import java.util.*;
 import java.lang.Math;
 
